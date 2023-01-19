@@ -5,7 +5,7 @@
 
 -----
 
-A Drop in the Bucket is intended to make it easy to bucket a set of values using the [[Fisher-Jenks Algorithm](https://en.wikipedia.org/wiki/Jenks_natural_breaks_optimization)] using [[jenkspy](https://pypi.org/project/jenkspy/)].
+A Drop in the Bucket is intended to make it easy to bucket a set of values using the [Fisher-Jenks Algorithm](https://en.wikipedia.org/wiki/Jenks_natural_breaks_optimization) using [jenkspy](https://pypi.org/project/jenkspy/).
 
 **Table of Contents**
 
